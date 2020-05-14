@@ -1,0 +1,19 @@
+[{
+  "nombre":"RAM","precio": "80"
+ },
+ {
+  "nombre":"SSD","precio": "50"
+ },
+ {
+  "nombre":"GRAFICA","precio": "300"
+ },
+ {
+  "nombre":"REFRIG","precio": "150"
+ },
+ {
+  "nombre":"PLACA","precio": "200"
+ },
+ {
+  "nombre":"FUENTE","precio": "100"
+ },
+]
