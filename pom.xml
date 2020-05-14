@@ -8,7 +8,7 @@
 	<version>0.1.0.BUILD-SNAPSHOT</version>
 	<name>spring-textEditor</name>
 	<properties>
-		<spring.version>4.3.0.RELEASE</spring.version>
+		<spring.version>5.2.6.RELEASE</spring.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
