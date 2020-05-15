@@ -112,7 +112,7 @@ Los cambios para la v0.2:
 * Añadido programa en JavaFx
 * Añadido colores a la salida estándar
 * Añadido otra temática sobre la tienda (ficheros json, modificaciones código) tanto java como javaFx.
-* Reparado y añadido que compueba si existe el id (solo funcional en tienda no en javafx).
+* Reparado y añadido método en JDBCCompra.java que compueba si existe el id (solo funcional en tienda no en javafx).
 
 
 
