@@ -50,13 +50,13 @@ Para ejecutar, nos vamos al raíz del proyecto maven (donde visualizamos el pom.
 ```
 $  mvn compile
 $  mvn dependency:copy-dependencies package
-$  java -cp target/nombre-archivo.jar:target/dependency/*:. tienda
+$  java -Djava.util.logging.config.file -cp target/nombre-archivo.jar:target/dependency/*:. tienda
 ```
 Para ejecutar el proyecto con JavaFx 
 ```
 $  mvn compile
 $  mvn dependency:copy-dependencies package
-$  java -cp target/nombre-archivo.jar:target/dependency/*:. javafx
+$  java -Djava.util.logging.config.file -cp target/nombre-archivo.jar:target/dependency/*:. javafx
 ```
 
 
